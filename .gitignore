@@ -2,6 +2,9 @@
 .DS_Store
 Thumbs.db
 
+.idea
+.github
+
 # Nose
 .noseids
 
